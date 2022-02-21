@@ -1,0 +1,65 @@
+div {
+    padding: 5px;
+    margin: 5px;
+}
+
+.primary {
+    height: 40px;
+    width: 40px;
+}
+
+.colorsRow {
+    display: flex;
+}
+
+.color {
+    height: 40px;
+    width: 40px;
+}
+
+.green {
+    background-color: green;
+    border: solid 2px green;
+}
+
+.red {
+    background-color: red;
+    border: solid 2px red;
+}
+
+.yellow {
+    background-color: yellow;
+    border: solid 2px yellow;
+}
+
+.blue {
+    background-color: blue;
+    border: solid 2px blue;
+}
+.lime {
+    background-color: lime;
+    border: solid 2px lime;
+}
+
+.orange {
+    background-color: orange;
+    border: solid 2px orange;
+}
+
+.cyan  {
+    background-color: cyan ;
+    border: solid 2px cyan;
+}
+
+.pink {
+    background-color: pink;
+    border: solid 2px pink;
+}
+
+.hidden{
+    background-color: transparent;
+}
+
+table,tr {
+    border: solid 1px black;
+}
